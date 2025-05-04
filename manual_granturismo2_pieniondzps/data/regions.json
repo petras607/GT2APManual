@@ -1,0 +1,62 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "No Licenses": {
+        "connects_to": ["B Class Unlocks", "Manufacturer Racing", "T1 Arcade Rally"],
+        "starting": true
+    },
+    "B Class Unlocks": {
+        "requires": "|Progressive License:1|",
+        "connects_to": ["A Class Unlocks"]
+    },
+    "A Class Unlocks": {
+        "requires": "|Progressive License:2|",
+        "connects_to": ["iC Class Unlocks"]
+    },
+    "iC Class Unlocks": {
+        "requires": "|Progressive License:3|",
+        "connects_to": ["iB Class Unlocks"]
+    },
+    "iB Class Unlocks": {
+        "requires": "|Progressive License:4|",
+        "connects_to": ["iA Class Unlocks"]
+    },
+    "iA Class Unlocks": {
+        "requires": "|Progressive License:5|",
+        "connects_to": ["S Class Unlocks"]
+    },
+    "S Class Unlocks": {
+        "requires": "|Progressive License:6|"
+    },
+
+    "Manufacturer Racing": {
+        "requires": "|Racing Modification| and |Progressive Weight Reduction:3|"
+    },
+
+    "T1 Arcade Rally": {
+        "requires": "(|@Cars - Dirt compatible:1| and |Dirt Racing Tires|) or (|Citroën Permit| or |Daihatsu Permit| or |Ford Permit| or |Lancia Permit| or |Mazda Permit| or |Mini & MG Permit| or |Mitsubishi Permit| or |Nissan Permit| or |Opel/Vauxhall Permit| or |Peugeot Permit| or |Renault Permit| or |Subaru Permit| or |Toyota Permit| or |Volkswagen Permit|)",
+        "connects_to": ["T2 Arcade Rally"]
+    },
+    "T2 Arcade Rally": {
+        "requires": "|Progressive License:1|",
+        "connects_to": ["T3 Arcade Rally"]
+    },
+    "T3 Arcade Rally": {
+        "requires": "|Progressive License:2|",
+        "connects_to": ["T4 Arcade Rally"]
+    },
+    "T4 Arcade Rally": {
+        "requires": "|Progressive License:3|",
+        "connects_to": ["T5 Arcade Rally"]
+    },
+    "T5 Arcade Rally": {
+        "requires": "|Progressive License:4|",
+        "connects_to": ["T6 Arcade Rally"]
+    },
+    "T6 Arcade Rally": {
+        "requires": "|Progressive License:5|",
+        "connects_to": ["T7 Arcade Rally"]
+    },
+    "T7 Arcade Rally": {
+        "requires": "|Progressive License:6|"
+    }
+}

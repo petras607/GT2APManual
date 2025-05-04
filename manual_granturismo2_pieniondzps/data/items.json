@@ -1,0 +1,447 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Progressive License",
+            "category": ["Keys"],
+            "count": 6,
+            "progression": true,
+            "useful": true
+        },
+        {
+            "name": "Trophy",
+            "category": ["Keys"],
+            "count": 0,
+            "progression": true,
+            "progression_skip_balancing": true
+        },
+
+        {
+            "name": "Won All Nationals Events",
+            "category": ["Milestones"],
+            "progression": true
+        },
+        {
+            "name": "Won All Euro-Pacific Events",
+            "category": ["Milestones"],
+            "progression": true
+        },
+        {
+            "name": "Won GT World League",
+            "category": ["Milestones"],
+            "progression": true
+        },
+
+        {
+            "name": "Alfa Romeo Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 690 BHP limit",
+            "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Aston Martin Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - FR drivetrain",
+            "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Audi Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "BMW Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - FR drivetrain",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Chevrolet Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FR drivetrain",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Citroën Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Daihatsu Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Dodge Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain",
+            "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Fiat Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Ford Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Honda & Acura Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Jaguar Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - FR drivetrain", "Cars - MR drivetrain",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Lancia Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Lister Permit",
+            "category": ["Cars", "NA aspiration", "Cars - FR drivetrain",
+            "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Lotus Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Mazda Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Mercedes-Benz Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Mini & MG Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - MR drivetrain",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Mitsubishi Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Nissan Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Opel/Vauxhall Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 690 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Peugeot Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Plymouth Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - FR drivetrain", "Cars - MR drivetrain",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Renault Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - MR drivetrain",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "RUF Permit",
+            "category": ["Cars", "Cars - Turbo aspiration", "Cars - Dirt compatible",
+            "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Shelby Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - FR drivetrain",
+            "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Subaru Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Suzuki Permit",
+            "category": ["Cars", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Tommy Kaira Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Toyota Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "TVR Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - FR drivetrain",
+            "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
+            "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Vector Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - MR drivetrain",
+            "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Venturi Permit",
+            "category": ["Cars", "Cars - Turbo aspiration", "Cars - MR drivetrain",
+            "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
+            "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+        {
+            "name": "Volkswagen Permit",
+            "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 690 BHP limit",
+            "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
+            "progression": true
+        },
+
+        {
+            "name": "Progressive Mufflers",
+            "category": ["Upgrades - Muffler"],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Sports Brakes",
+            "category": ["Upgrades - Brake"],
+            "useful": true
+        },
+        {
+            "name": "Brake Balance Controller",
+            "category": ["Upgrades - Brake"],
+            "useful": true
+        },
+        {
+            "name": "Performance Chip",
+            "category": ["Upgrades - Engine"],
+            "useful": true
+        },
+        {
+            "name": "Progressive NA Tune-Up",
+            "category": ["Upgrades - Engine"],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Full Engine Balancing",
+            "category": ["Upgrades - Engine"],
+            "useful": true
+        },
+        {
+            "name": "Displacement Increase",
+            "category": ["Upgrades - Engine"],
+            "useful": true
+        },
+        {
+            "name": "Port & Polish",
+            "category": ["Upgrades - Engine"],
+            "useful": true
+        },
+        {
+            "name": "Progressive Transmission",
+            "category": ["Upgrades - Drivetrain"],
+            "count": 2,
+            "useful": true
+        },
+        {
+            "name": "Progressive Flywheel",
+            "category": ["Upgrades - Drivetrain"],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Progressive Clutch",
+            "category": ["Upgrades - Drivetrain"],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Carbon Driveshaft",
+            "category": ["Upgrades - Drivetrain"],
+            "useful": true
+        },
+        {
+            "name": "Progressive Limited-Slip",
+            "category": ["Upgrades - Drivetrain"],
+            "count": 2,
+            "useful": true
+        },
+        {
+            "name": "Progressive Turbo Kit",
+            "category": ["Upgrades - Turbo"],
+            "count": 4,
+            "useful": true
+        },
+        {
+            "name": "Progressive Intercooler",
+            "category": ["Upgrades - Turbo"],
+            "count": 2,
+            "useful": true
+        },
+        {
+            "name": "Progressive Suspension Kit",
+            "category": ["Upgrades - Suspension"],
+            "count": 3,
+            "useful": true
+        },
+        {
+            "name": "Progressive Tires",
+            "category": ["Upgrades - Tires", "Progressive Tire On"],
+            "count": 5,
+            "useful": true
+        },
+        {
+            "name": "Sports Tires",
+            "category": ["Upgrades - Tires", "Progressive Tire Off"],
+            "useful": true
+        },
+        {
+            "name": "Racing Hard Tires",
+            "category": ["Upgrades - Tires", "Progressive Tire Off"],
+            "useful": true
+        },
+        {
+            "name": "Racing Medium Tires",
+            "category": ["Upgrades - Tires", "Progressive Tire Off"],
+            "useful": true
+        },
+        {
+            "name": "Racing Soft Tires",
+            "category": ["Upgrades - Tires", "Progressive Tire Off"],
+            "useful": true
+        },
+        {
+            "name": "Racing Super Soft Tires",
+            "category": ["Upgrades - Tires", "Progressive Tire Off"],
+            "useful": true
+        },
+        {
+            "name": "Dirt Racing Tires",
+            "category": ["Upgrades - Tires"],
+            "progression": true
+        },
+        {
+            "name": "Simulation Tires",
+            "category": ["Upgrades - Tires"],
+            "useful": true
+        },
+        {
+            "name": "Progressive Weight Reduction",
+            "category": ["Upgrades - Other"],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Racing Modification",
+            "category": ["Upgrades - Other"],
+            "progression": true
+        },
+        {
+            "name": "Yaw Control System",
+            "category": ["Upgrades - Other"],
+            "useful": true
+        },
+        {
+            "name": "Active Stability Controller",
+            "category": ["Upgrades - Other"],
+            "useful": true
+        },
+        {
+            "name": "TCS Controller",
+            "category": ["Upgrades - Other"],
+            "useful": true
+        }
+    ]
+
+}
