@@ -3,14 +3,13 @@
     "data": [
         {
             "name": "Progressive License",
-            "category": ["Keys"],
+            "category": ["Licenses"],
             "count": 6,
-            "progression": true,
-            "useful": true
+            "progression": true
         },
         {
             "name": "Trophy",
-            "category": ["Keys"],
+            "category": ["Trophies"],
             "count": 0,
             "progression": true,
             "progression_skip_balancing": true

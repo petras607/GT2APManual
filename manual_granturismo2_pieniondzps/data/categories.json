@@ -1,7 +1,8 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
     
-    "Keys": {},
+    "Licenses": {},
+    "Trophies": {},
     "Milestones": {},
 
     "Cars": {},
