@@ -116,6 +116,7 @@
         {
             "name": "Jaguar Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - FR drivetrain", "Cars - MR drivetrain",
+            "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
             "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
             "progression": true
