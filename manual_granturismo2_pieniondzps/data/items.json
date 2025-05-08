@@ -269,6 +269,7 @@
         {
             "name": "Vector Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - MR drivetrain",
+            "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
             "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
             "progression": true
         },
