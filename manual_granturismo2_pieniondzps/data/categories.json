@@ -42,6 +42,9 @@
     "Cars - Turbo aspiration": {},
     "Cars - Dirt compatible": {},
 
+    "Starter - Strict": {"hidden": true},
+    "Starter - Loose": {"hidden": true},
+
     "Upgrades - Muffler": {},
     "Upgrades - Brake": {},
     "Upgrades - Engine": {},

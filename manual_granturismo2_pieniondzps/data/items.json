@@ -76,6 +76,7 @@
         {
             "name": "Daihatsu Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Loose",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
             "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
@@ -92,6 +93,7 @@
         {
             "name": "Fiat Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain",
+            "Starter - Loose",
             "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
             "progression": true
         },
@@ -107,6 +109,7 @@
         {
             "name": "Honda & Acura Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Strict",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
@@ -138,6 +141,7 @@
         {
             "name": "Lotus Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain",
+            "Starter - Strict",
             "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
             "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
@@ -169,6 +173,7 @@
         {
             "name": "Mitsubishi Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Strict",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
             "progression": true
@@ -176,6 +181,7 @@
         {
             "name": "Nissan Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Strict",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
@@ -228,6 +234,7 @@
         {
             "name": "Subaru Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Loose",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - FR and 493 BHP limit",
             "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
@@ -236,6 +243,7 @@
         {
             "name": "Suzuki Permit",
             "category": ["Cars", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FR drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Loose",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",
             "Cars - Lightweight eligible", "Cars - 147 BHP limit", "Cars - 197 BHP limit", "Cars - 216 BHP limit", "Cars - 246 BHP limit", "Cars - 295 BHP limit", "Cars - 345 BHP limit", "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
@@ -253,6 +261,7 @@
         {
             "name": "Toyota Permit",
             "category": ["Cars", "Cars - NA aspiration", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - FF drivetrain", "Cars - FR drivetrain", "Cars - MR drivetrain", "Cars - 4WD drivetrain",
+            "Starter - Strict",
             "Cars - 4WD and 345 BHP limit", "Cars - 4WD and 394 BHP limit", "Cars - 4WD and 690 BHP limit",
             "Cars - MR and 345 BHP limit", "Cars - MR and 493 BHP limit", "Cars - MR and 591 BHP limit",
             "Cars - FR and 295 BHP limit", "Cars - FR and 443 BHP limit", "Cars - FR and 493 BHP limit",

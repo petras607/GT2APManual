@@ -124,16 +124,23 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     car_pool = []
 
     # Adds a random car permit to starting items, with the pool depending on the state of Limit starter cars
-    if get_option_value(multiworld, player, "limit_starter_cars") == 0: #strict
-        # Daihatsu, Honda & Acura, Mazda, Mitsubishi, Nissan, Suzuki, Toyota
-        car_pool = ["Honda & Acura Permit", "Mazda Permit", "Mitsubishi Permit", "Nissan Permit", "Toyota Permit"]
-    elif get_option_value(multiworld, player, "limit_starter_cars") == 1: #loose
-        # Daihatsu, Fiat, Honda & Acura, Mazda, Mitsubishi, Nissan, Suzuki, Toyota
-        car_pool = ["Daihatsu Permit", "Fiat Permit", "Honda & Acura Permit", "Mazda Permit", "Mitsubishi Permit", "Nissan Permit", "Subaru Permit", "Suzuki Permit", "Toyota Permit"]
-    elif get_option_value(multiworld, player, "limit_starter_cars") == 2: #none
-        car_pool = ["Alfa Romeo Permit", "Aston Martin Permit", "Audi Permit", "BMW Permit", "Chevrolet Permit", "Citroën Permit", "Daihatsu Permit", "Dodge Permit", "Fiat Permit", "Ford Permit", "Honda & Acura Permit", "Jaguar Permit",
-                    "Lancia Permit", "Lister Permit", "Lotus Permit", "Mazda Permit", "Mercedes-Benz Permit", "Mini & MG Permit", "Mitsubishi Permit", "Nissan Permit", "Opel/Vauxhall Permit", "Peugeot Permit", "Plymouth Permit",
-                    "Renault Permit", "RUF Permit", "Shelby Permit", "Subaru Permit", "Suzuki Permit", "Tommy Kaira Permit", "Toyota Permit", "TVR Permit", "Vector Permit", "Venturi Permit", "Volkswagen Permit"]
+    if get_option_value(multiworld, player, "limit_starter_cars") == 2:
+        # none
+        car_pool.extend([
+            name for name, l in world.item_name_to_item.items()
+                if "Cars" in l.get('category', [])
+        ])
+    else:
+        # strict - both remaining options have these cars
+        car_pool.extend([
+            name for name, l in world.item_name_to_item.items()
+                if "Starter - Strict" in l.get('category', [])
+        ])
+        if get_option_value(multiworld, player, "limit_starter_cars") == 1: #loose
+            car_pool.extend([
+                name for name, l in world.item_name_to_item.items()
+                if "Starter - Loose" in l.get('category', [])
+            ])
     multiworld.random.shuffle(car_pool)
     starting_items.append(car_pool[0])
 
