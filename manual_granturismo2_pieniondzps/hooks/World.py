@@ -126,10 +126,10 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Adds a random car permit to starting items, with the pool depending on the state of Limit starter cars
     if get_option_value(multiworld, player, "limit_starter_cars") == 0: #strict
         # Daihatsu, Honda & Acura, Mazda, Mitsubishi, Nissan, Suzuki, Toyota
-        car_pool = ["Daihatsu Permit", "Honda & Acura Permit", "Mazda Permit", "Mitsubishi Permit", "Nissan Permit", "Suzuki Permit", "Toyota Permit"]
+        car_pool = ["Honda & Acura Permit", "Mazda Permit", "Mitsubishi Permit", "Nissan Permit", "Toyota Permit"]
     elif get_option_value(multiworld, player, "limit_starter_cars") == 1: #loose
         # Daihatsu, Fiat, Honda & Acura, Mazda, Mitsubishi, Nissan, Suzuki, Toyota
-        car_pool = ["Daihatsu Permit", "Fiat Permit", "Honda & Acura Permit", "Mazda Permit", "Mitsubishi Permit", "Nissan Permit", "Suzuki Permit", "Toyota Permit"]
+        car_pool = ["Daihatsu Permit", "Fiat Permit", "Honda & Acura Permit", "Mazda Permit", "Mitsubishi Permit", "Nissan Permit", "Subaru Permit", "Suzuki Permit", "Toyota Permit"]
     elif get_option_value(multiworld, player, "limit_starter_cars") == 2: #none
         car_pool = ["Alfa Romeo Permit", "Aston Martin Permit", "Audi Permit", "BMW Permit", "Chevrolet Permit", "Citroën Permit", "Daihatsu Permit", "Dodge Permit", "Fiat Permit", "Ford Permit", "Honda & Acura Permit", "Jaguar Permit",
                     "Lancia Permit", "Lister Permit", "Lotus Permit", "Mazda Permit", "Mercedes-Benz Permit", "Mini & MG Permit", "Mitsubishi Permit", "Nissan Permit", "Opel/Vauxhall Permit", "Peugeot Permit", "Plymouth Permit",
