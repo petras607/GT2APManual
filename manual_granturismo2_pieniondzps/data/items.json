@@ -212,7 +212,8 @@
         },
         {
             "name": "RUF Permit",
-            "category": ["Cars", "Cars - Turbo aspiration", "Cars - Dirt compatible",
+            "category": ["Cars", "Cars - Turbo aspiration", "Cars - Dirt compatible", "Cars - 4WD drivetrain",
+            "Cars - 4WD and 690 BHP limit",
             "Cars - 394 BHP limit", "Cars - 443 BHP limit", "Cars - 493 BHP limit", "Cars - 542 BHP limit", "Cars - 591 BHP limit", "Cars - 690 BHP limit"],
             "progression": true
         },
