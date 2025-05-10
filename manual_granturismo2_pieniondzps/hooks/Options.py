@@ -59,8 +59,8 @@ class TrophyRequired(Range):
 class LimitStarterCars(Choice):
     """
     Limits car permits you can get as your starting item.
-    [strict] Will give a manufacturer that includes a car priced under 10k Credits and is powerful enough to reasonably clear content: Daihatsu, Honda & Acura, Mazda, Mitsubishi, Nissan, Suzuki, Toyota
-    [loose] Will give a manufacturer that includes a car priced under 10k Credits with no regard to its viability: Daihatsu, Fiat, Honda & Acura, Mazda, Mitsubishi, Nissan, Suzuki, Toyota
+    [strict] Will give a manufacturer that includes a car priced under 10k Credits and is powerful enough to reasonably clear content: Honda & Acura, Mazda, Mitsubishi, Nissan, Toyota
+    [loose] Will give a manufacturer that includes a car priced under 10k Credits with no regard to its viability: Daihatsu, Fiat, Honda & Acura, Mazda, Mitsubishi, Nissan, Subaru, Suzuki, Toyota
     [none] Any manufacturer can become your starting item. Usually makes progression impossible without cheating in Credits.
     """
     display_name = "Limit starter cars"
